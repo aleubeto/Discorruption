@@ -1,0 +1,56 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>WindowsApplication1</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>VisualBasic</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>WindowsApplication1</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="WindowsApplication1.vbproj" File="WindowsApplication1.vbproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="ayuda.vb">ayuda.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ayuda.Designer.vb">ayuda.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ayuda.resx">ayuda.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="contacto.vb">contacto.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="contacto.Designer.vb">contacto.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="contacto.resx">contacto.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Denunciar.vb">Denunciar.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Denunciar.Designer.vb">Denunciar.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Denunciar.resx">Denunciar.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ejemplos.vb">ejemplos.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ejemplos.Designer.vb">ejemplos.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ejemplos.resx">ejemplos.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form2.vb">Form2.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form2.Designer.vb">Form2.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form2.resx">Form2.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form3.vb">Form3.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form3.Designer.vb">Form3.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form3.resx">Form3.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Informacion.vb">Informacion.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Informacion.Designer.vb">Informacion.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Informacion.resx">Informacion.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="inicio.vb">inicio.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.resx">Form1.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="inicio.Designer.vb">inicio.Designer.vb</ProjectItem>
+      <Folder Name="My Project" TargetFolderName="My Project">
+        <ProjectItem ReplaceParameters="true" TargetFileName="Application.myapp">Application.myapp</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Application.Designer.vb">Application.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.vb">AssemblyInfo.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.resx">Resources.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.Designer.vb">Resources.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.settings">Settings.settings</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.Designer.vb">Settings.Designer.vb</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Nosotros.vb">Nosotros.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Nosotros.Designer.vb">Nosotros.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Nosotros.resx">Nosotros.resx</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
